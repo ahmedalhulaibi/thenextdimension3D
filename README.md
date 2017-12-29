@@ -3,15 +3,15 @@ A 3D top-down bullet-hell shooter designed for desktop and gamepads built in my 
 
 Programmed core framework
 
--Core math librairies (Vector, Matrix, Quaternion)
--OpenGL with GLSL shader framework
--Wrote FMOD wrapper
--Implemented SFML input and window handling
--Particle systems
+- Core math librairies (Vector, Matrix, Quaternion)
+- OpenGL with GLSL shader framework
+- Wrote FMOD wrapper
+- Implemented SFML input and window handling
+- Particle systems
       
 Designed and programmed  NPC behaviours
--Flocking
--Boss fights
+- Flocking
+- Boss fights
       
 Designed and programmed particle effects 
 
